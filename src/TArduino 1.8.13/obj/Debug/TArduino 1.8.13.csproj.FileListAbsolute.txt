@@ -1,0 +1,31 @@
+C:\Users\hamza\source\repos\TArduino 1.8.13\bin\Debug\TArduino 1.8.13.exe.config
+C:\Users\hamza\source\repos\TArduino 1.8.13\bin\Debug\TArduino 1.8.13.exe
+C:\Users\hamza\source\repos\TArduino 1.8.13\bin\Debug\TArduino 1.8.13.pdb
+C:\Users\hamza\source\repos\TArduino 1.8.13\obj\Debug\TArduino 1.8.13.csprojAssemblyReference.cache
+C:\Users\hamza\source\repos\TArduino 1.8.13\obj\Debug\TArduino_1._8._13.Properties.Resources.resources
+C:\Users\hamza\source\repos\TArduino 1.8.13\obj\Debug\TArduino 1.8.13.csproj.GenerateResource.cache
+C:\Users\hamza\source\repos\TArduino 1.8.13\obj\Debug\TArduino 1.8.13.csproj.CoreCompileInputs.cache
+C:\Users\hamza\source\repos\TArduino 1.8.13\obj\Debug\TArduino 1.8.13.exe
+C:\Users\hamza\source\repos\TArduino 1.8.13\obj\Debug\TArduino 1.8.13.pdb
+C:\Users\hamza\source\repos\TArduino 1.8.13\bin\Debug\ICSharpCode.TextEditor.dll
+C:\Users\hamza\source\repos\TArduino 1.8.13\obj\Debug\TArduino 1.8.13.csproj.CopyComplete
+C:\Users\hamza\source\repos\TArduino 1.8.13\obj\Debug\TArduino_1._8._13.TArduino.resources
+C:\Users\hamza\source\repos\TArduino 1.8.13\obj\Debug\TArduino_1._8._13.PortEkranı.resources
+C:\Users\hamza\source\repos\TArduino 1.8.13\bin\Debug\LiveCharts.dll
+C:\Users\hamza\source\repos\TArduino 1.8.13\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\hamza\source\repos\TArduino 1.8.13\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\hamza\source\repos\TArduino 1.8.13\bin\Debug\LiveCharts.pdb
+C:\Users\hamza\source\repos\TArduino 1.8.13\bin\Debug\LiveCharts.xml
+C:\Users\hamza\source\repos\TArduino 1.8.13\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\hamza\source\repos\TArduino 1.8.13\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\hamza\source\repos\TArduino 1.8.13\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\hamza\source\repos\TArduino 1.8.13\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\hamza\source\repos\TArduino 1.8.13\obj\Debug\TArduino_1._8._13.PortCizici.resources
+C:\Users\hamza\source\repos\TArduino 1.8.13\bin\Debug\resimler\klasik\check.png
+C:\Users\hamza\source\repos\TArduino 1.8.13\bin\Debug\resimler\klasik\upload.png
+C:\Users\hamza\source\repos\TArduino 1.8.13\bin\Debug\resimler\pembe\check.png
+C:\Users\hamza\source\repos\TArduino 1.8.13\bin\Debug\resimler\pembe\upload.png
+C:\Users\hamza\source\repos\TArduino 1.8.13\bin\Debug\resimler\yeşil\check.png
+C:\Users\hamza\source\repos\TArduino 1.8.13\bin\Debug\resimler\yeşil\upload.png
+C:\Users\hamza\source\repos\TArduino 1.8.13\bin\Debug\resimler\mor\check.png
+C:\Users\hamza\source\repos\TArduino 1.8.13\bin\Debug\resimler\mor\upload.png
